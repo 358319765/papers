@@ -1,2 +1,2 @@
-# Just to save some interesting papers
-Visualizing and Understanding Recurrent Networks Andrej Karpathy Justin Johnson Li Fei-Fei
+# Just save some interesting papers
+1、 Visualizing and Understanding Recurrent Networks Andrej Karpathy Justin Johnson Li Fei-Fei
