@@ -12,3 +12,6 @@
 11. Understanding Neural Networks Throwgh Deep Visualization Yosinski 2015
 12. Intriguing properties of neural networks Szegedy 2013
 13. explaining and harnessing adversarial examples Goodfellow 2014
+14. DeCAF:A Deep Convolutional Activation Feature for Generic Visual Recognition, Donahue Jia 2013
+15. CNN Features off-the-shelf: an Astounding Baseline for Recognition Razavian 2014
+
